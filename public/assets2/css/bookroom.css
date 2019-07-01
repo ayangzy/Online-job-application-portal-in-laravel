@@ -1,0 +1,19 @@
+body{
+	background: url(../images/lights.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+#room .col-md-4{
+	
+}
+
+#room .col-md-4 li a{
+	font-weight: bold;
+	text-decoration: none;
+}
+
+
+ .single{
+	border-radius: 10px 10px 10px 10px ;
+}

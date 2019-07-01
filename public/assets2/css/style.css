@@ -1,0 +1,69 @@
+body{
+	background: #fff;
+}
+
+.navbar .nav-link{
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.carousel-item{
+	height: 450px;
+}
+
+
+
+
+
+
+#home-heading{
+	position: relative;
+	min-height: 100px;
+	background: url("../images/lights.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.dark-overlay{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,0.7);
+}
+
+#video-play{
+	position: relative;
+	min-height: 100px;
+	background: url("../images/media.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	text-align: center;
+}
+
+#video-play a{
+	color: #fff;
+}
+
+
+#page-header{
+	background: url(../images/image1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	color: #fff;
+	margin-top: 2em;
+}
+
+#about img{
+	margin-top: -4em;
+}
+
+#contact h4{
+	font-weight: bold;
+}
+
+
+
